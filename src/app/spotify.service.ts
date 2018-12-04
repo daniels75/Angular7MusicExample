@@ -11,6 +11,7 @@ import { environment } from '../environments/environment';
 /**
  * SpotifyService works querying the Spotify Web API
  * https://developer.spotify.com/web-api/
+ * https://developer.spotify.com/console/get-search-item/
  */
 
 @Injectable()
